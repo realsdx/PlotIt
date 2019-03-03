@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from lib import plotutil as plu
 import optparse
 import signal
